@@ -1,6 +1,10 @@
 # Data-wrangling
 Data wrangling with R and Julia 
 
+The project is based on Crash Analysis System (CAS) Data from New Zealand, Regional population of New Zealand and New Zealand Vehicle Kilometer travelled (VKT) .
+
+The CAS data was sourced from New Zealand Transport Agency open data whereas VKT data and Population data were sourced from Ministry of Transport and Environment Canterbury Regional Council, respectively.
+
 This small project use both R and Julia for Data Wrangling. Therefore, the code have been separated into two Jupyter notebooks, one using Julia and the other using R.
 DW_Julia.ipynb
 DR_R.ipynb
